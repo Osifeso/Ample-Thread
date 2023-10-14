@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    background-size: cover;
+    margin: auto;
+    
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 15px;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    text-align: left;
+    background-color: aquamarine;
+    margin-left:250px;
+    margin-right:250px;
+    
+}
